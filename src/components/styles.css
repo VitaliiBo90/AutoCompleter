@@ -1,0 +1,30 @@
+input[type=text] {
+    width: inherit;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+.autoCompleteWrapper {
+    width: 30em;
+    margin: 1em;
+}
+
+.autoCompleteWrapper ul {
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.autoCompleteWrapper ul li { 
+    list-style-type: none;
+    cursor: pointer;
+    padding: 0.5em 1em;
+}
+
+.autoCompleteWrapper ul li:hover {
+    background: gray;
+}

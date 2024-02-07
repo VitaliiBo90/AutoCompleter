@@ -1,0 +1,167 @@
+{
+    "status": "OK",
+    "request_id": "51a3115d-d721-4ab1-ab9c-5486175b2b5c",
+    "parameters": {
+        "query": "a",
+        "language": "en",
+        "region": "us",
+        "cursor_pointer": 1,
+        "user_agent": "desktop"
+    },
+    "data": [
+        {
+            "query": "amazon",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 2,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Amazon",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL5FMM3SUHjWU-koXgruXiI_xpB7Y7jNZDegB7Eahl&s=10"
+        },
+        {
+            "query": "amazon prime",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 2,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "query": "australian open",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 5,
+                    "length": 1
+                },
+                {
+                    "offset": 8,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Australian Open",
+            "entity_subtitle": "Tennis tournament",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQ1-lCcwR3gUuxy6_kNIevvz70qpRZfoNGWxkdxWMMQ&s=10"
+        },
+        {
+            "query": "australian open 2024",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 5,
+                    "length": 1
+                },
+                {
+                    "offset": 8,
+                    "length": 1
+                }
+            ]
+        },
+        {
+            "query": "airbnb",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Airbnb",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXj4IeLrBBmClnakUHrnrdGZGqRjStjjXmyE6SPC4ZP595h6xt9Uqx4rP9OA&s=10"
+        },
+        {
+            "query": "american airlines",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 6,
+                    "length": 1
+                },
+                {
+                    "offset": 9,
+                    "length": 1
+                }
+            ],
+            "entity_title": "American Airlines",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtEWaQgclXxFlA9gwavTLtUyBXPtXlcpuetpgZ9EK&s=10"
+        },
+        {
+            "query": "afcon",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Africa Cup of Nations",
+            "entity_subtitle": "Soccer competition",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnWHzeP4rRMs7_BL5BofL5Se5LwiIfhxlHHOlfxDaLg&s=10"
+        },
+        {
+            "query": "amy coney barrett",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 11,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Amy Coney Barrett",
+            "entity_subtitle": "Associate Justice of the Supreme Court of the United States",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFaA0_P0OUFZGL16roqhrdxDHGe6eR733YOdqhkvkXiMsZnwrVTIOEIU34Jw&s=10"
+        },
+        {
+            "query": "american fiction",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 6,
+                    "length": 1
+                }
+            ],
+            "entity_title": "American Fiction",
+            "entity_subtitle": "2023 film",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrG6p2M4okImEDUVuhVwdGoO19qT82SqSXl1OE7oGOg&s=10"
+        },
+        {
+            "query": "amtrak",
+            "highlights": [
+                {
+                    "offset": 0,
+                    "length": 1
+                },
+                {
+                    "offset": 4,
+                    "length": 1
+                }
+            ],
+            "entity_title": "Amtrak",
+            "entity_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbyd8dxaoiVenVMbsYZYmo99BEnyr8k_G5LfZFSmZ&s=10"
+        }
+    ]
+}
